@@ -1,0 +1,23 @@
+{
+  "author": "Damian Bushong <katana@codebite.net>",
+  "name": "connect-mariasql",
+  "description": "a MariaSQL session store for connect",
+  "version": "0.0.1",
+  "homepage": "https://github.com/damianb/connect-mariasql",
+  "licenses": [
+    { "type": "MIT", "url": "https://github.com/damianb/connect-mariasql/raw/master/LICENSE" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/damianb/connect-mariasql.git"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {
+    "mariasql":"0.1.x"
+  },
+  "engines": {
+    "node": ">=0.8.x"
+  }
+}
