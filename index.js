@@ -1,1 +1,1 @@
-module.exports = require('./lib/connect-mariasql')
+module.exports = require('./lib/connect-tarantool')
